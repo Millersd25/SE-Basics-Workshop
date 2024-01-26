@@ -1,0 +1,10 @@
+What is my favorite programming language? Why?
+
+I used to always answer Java to this specific question, but nowadays, I don't have strong a preference. My main programming languages are Java, Python, and C and I use each of them for a different purpose. Java I use because it is good general-purpose programming language, useful for desktop applications and larger projects. Python I use a ton for writing smaller scripts and ML or Math Projects. Finally, C is useful for low-level programming, whether that means working with 
+
+Is your favorite language the one that you are most experienced with? If not, which language are you most experienced with?
+
+I have to admit that the languages that I enjoy using are the ones that I have the most experience with. Java is the programming language that I have the most experience with, having an accumulated 5 years of knowledge and various projects under my belt. C is a similar case, with about 3 years. And Python I picked up 2 years ago, but I use it quite a bit.
+
+Sherman Miller
+Arjun Vellanki
